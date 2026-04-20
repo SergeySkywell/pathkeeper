@@ -1,5 +1,5 @@
 import { StatItem } from "./StatItem";
-import { useStore } from "../../app/store/useStore";
+import { useStore } from "@/app/store/useStore";
 
 type StatEntry = {
   name: string;

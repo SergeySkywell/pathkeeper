@@ -1,4 +1,4 @@
-import { StateStatus } from "../../features/state-status/StateStatus";
+import { StateStatus } from "@/features/state-status/StateStatus";
 
 export const HomePage = () => {
   return (

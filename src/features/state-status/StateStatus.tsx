@@ -1,4 +1,4 @@
-import { useStore } from "../../app/store/useStore";
+import { useStore } from "@/app/store/useStore";
 
 export const StateStatus = () => {
   const { state, setState } = useStore();
